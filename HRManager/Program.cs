@@ -1,9 +1,8 @@
 ﻿//  Program name: CchavezObjectClassDemo
-
 //  Programed by: Colby Chhavez
 //  Contact Email: cchavez572@cnm.edu
-//  
-//  
+//  date: 02/15/2024
+//  Program goal: Demo Object class inheritance and features
 
 using System;
 using System.Collections.Generic;
